@@ -2,6 +2,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21838013&assignment_repo_type=AssignmentRepo)
 # Expo Router Minimal Working Example
 
+URL:https://expo.dev/accounts/ccchi/projects/Emogo/builds/d19c749b-e3b3-42df-a878-e1bae336a19f
+
 This is a very small Expo project using **expo-router** with:
 
 - A root `Stack` layout
